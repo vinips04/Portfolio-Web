@@ -495,7 +495,7 @@ section {
 .section-tag {
   font-family: var(--font-tech);
   color: var(--accent);
-  font-size: 2rem;
+  font-size: 1.5rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   margin-bottom: 8px;
